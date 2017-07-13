@@ -25,6 +25,8 @@ import csv
   - # Pictures
   - Distance from town center
   - Different price differences
+
+Predicting nightly vacation home rental prices in NYC
 """
 
 
@@ -123,11 +125,11 @@ def scrape_homeaway_house(url):
 
 
 def scrape_homeaway_rentals():
-    with open('homeaway_urls_nyc_ALL.txt', 'r') as f:
+    with open('data/homeaway_urls_nyc_ALL.txt', 'r') as f:
         lines = f.readlines()
 
-    with open('homeaway_rentals_nyc_ALL.txt', 'a+') as homeaway_file:
-        for i, url in enumerate(lines[555:]):
+    with open('data/homeaway_rentals_nyc_ALL.txt', 'a+') as homeaway_file:
+        for i, url in enumerate(lines):
             url = url.strip()
             print('Processing ', i)
             sleep(1)
@@ -181,7 +183,7 @@ def scrape_home_away_listings_all():
         'https://www.homeaway.com/results/new-york/'
         'new-york-city/region:1737/')
 
-    home_file = open('homeaway_urls_nyc_ALL.txt', 'a+')
+    home_file = open('data/homeaway_urls_nyc_ALL.txt', 'a+')
     # print(results_url)
     while results_url:
         results_url = scrape_home_away_listing(results_url, home_file)
