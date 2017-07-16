@@ -5,28 +5,8 @@ from time import sleep
 import csv
 
 """
-* HomeAway (owns VRBO)*:
-- Unique Id. E.g. 284875
-- Viewed 93 times in last 48 hours
-- Review Score
-- # Reviews
-- Property Type. E.g. cabin
-- Sleeps. E.g. 6
-- # Bedrooms
-- # Bathrooms
-- Minimum # Night Stays
-- Owner Member since
-- Response Time. E.g. Within 12 hours
-- Response Rate. E.g. 100%
-- Calendar last updated: July 11, 2017
-- Amenities: Hot Tub
-- Floor Area: E.g. 1200 sq ft
-- Ideally:
-  - # Pictures
-  - Distance from town center
-  - Different price differences
-
 Predicting nightly vacation home rental prices in NYC
+Scrapers last tested as of 07/17
 """
 
 
@@ -43,11 +23,8 @@ def make_soup(url):
 
 def scrape_homeaway_house(url):
     """
-    no geo https://www.homeaway.com/vacation-rental/p1110252vb
-    Returns []
-    url = url + '&arrivalDate=11/10/2017&departureDate=11/12/2017'
+    Scrape individaul Homeaway url
     """
-
     soup = make_soup(url)
 
     # Get latitude, longitude
