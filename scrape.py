@@ -119,10 +119,57 @@ def scrape_homeaway_rentals():
     homeaway_file.close()
 
 
-def process_homeaway_rentals():
-    with open('homeaway_rentals_nyc.txt', 'r') as homeaway_file:
-        for line in csv.reader(homeaway_file, delimiter='\t'):
-            print(line)
+def scrape_homeaway_house_amenities(url):
+    """
+    Scrape individaul Homeaway url's amenities
+    """
+    soup = make_soup(url)
+    description_tag = soup.find('div', class_='property-description')
+
+    description_text = description_tag.text.strip().lower() if description_tag else ''
+
+    amenities_tag = soup.find('div', {'id': 'amenities-container'})
+    amenities_text = amenities_tag.text.strip().lower() if amenities_tag else ''
+    amenities_text = ' '.join(amenities_text.split())
+
+    has_elevator = ('elevator' in description_text) or (
+        'elevator' in amenities_text)
+    has_patio = 'deck / patio' in amenities_text
+    has_concierge = ('concierge' in description_text) or (
+        'concierge' in amenities_text)
+
+    pool_tag = soup.find('div', {'id': 'poolSpa'})
+    has_pool = True if pool_tag else False
+    floor_area = None
+
+    floor_area_search = re.search(
+        r'floor area: ([\d]*) sq\. ft\.', amenities_text)
+
+    if (floor_area_search):
+        floor_area = floor_area_search.group(1)
+
+    return [url, has_elevator, has_concierge, has_patio, has_pool, floor_area]
+
+
+def scrape_homeaway_rentals_amenities():
+    """
+    Scrape additional information needed to model data
+    """
+    with open('data/homeaway_urls_nyc_ALL.txt', 'r') as f:
+        lines = f.readlines()
+
+    with open('data/homeaway_rentals_nyc_amenities_ALL.txt', 'a+') as homeaway_file:
+        for i, url in enumerate(lines[262:]):
+            url = url.strip()
+            print('Processing ', i)
+            sleep(1)
+            rental_info = scrape_homeaway_house_amenities(url)
+            if rental_info:
+                writer = csv.writer(homeaway_file, delimiter='\t')
+                print(rental_info)
+                writer.writerow(rental_info)
+                homeaway_file.flush()
+    homeaway_file.close()
 
 
 def scrape_home_away_listing(results_list_url, home_file):
@@ -169,4 +216,4 @@ def scrape_home_away_listings_all():
 
 # Standard boilerplate to call the main() function.
 if __name__ == '__main__':
-    scrape_homeaway_rentals()
+    scrape_homeaway_rentals_amenities()
