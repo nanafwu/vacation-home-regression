@@ -33,7 +33,7 @@ def write_subway_counts():
     """
     with open(data_file_subway_counts, 'a+') as homeaway_file:
         writer = csv.writer(homeaway_file, delimiter='\t')
-        for i, row in enumerate(df.as_matrix()[3717:]):
+        for i, row in enumerate(df.as_matrix()):
             url = row[0]
             lat = row[3]
             long = row[4]
@@ -60,6 +60,7 @@ def distance_to_times_square(lat, long):
                + '&origins=' + repr(lat) + ',' + repr(long)
                + '&destinations=' + times_square_lat + ',' + times_square_long
                + '&key=' + api_key)
+    print(api_url)
     response = requests.get(api_url).text
     resp_obj = json.loads(response)
     distance = resp_obj['rows'][0]['elements'][0]['distance']['value']

@@ -148,7 +148,7 @@ def scrape_homeaway_rentals_descriptions():
         lines = f.readlines()
 
     with open('data/homeaway_rentals_nyc_descriptions.txt', 'a+') as homeaway_file:
-        for i, url in enumerate(lines[1358:]):
+        for i, url in enumerate(lines):
             url = url.strip()
             print('Processing ', i)
             sleep(1)
