@@ -119,6 +119,48 @@ def scrape_homeaway_rentals():
     homeaway_file.close()
 
 
+def scrape_homeaway_house_description(url):
+    """
+    Get Homeaway house's full title and description
+    """
+    soup = make_soup(url)
+    header_text = ''
+    description_text = ''
+
+    header_tag = soup.find('h1', class_='listing-headline')
+    if header_tag:
+        header_subtag = header_tag.find('span', class_='listing-headline-text')
+        if header_subtag:
+            header_text = header_subtag.text.strip().lower()
+
+    description_tag = soup.find('div', class_='prop-desc-txt')
+    if description_tag:
+        description_text = description_tag.text.strip().lower()
+        description_text = re.sub(r'\n', ' ', description_text)
+    return [url, header_text, description_text]
+
+
+def scrape_homeaway_rentals_descriptions():
+    """
+    Scrape additional description information needed to model data
+    """
+    with open('data/homeaway_urls_nyc_ALL.txt', 'r') as f:
+        lines = f.readlines()
+
+    with open('data/homeaway_rentals_nyc_descriptions.txt', 'a+') as homeaway_file:
+        for i, url in enumerate(lines[1358:]):
+            url = url.strip()
+            print('Processing ', i)
+            sleep(1)
+            rental_info = scrape_homeaway_house_description(url)
+            if rental_info:
+                writer = csv.writer(homeaway_file, delimiter='\t')
+                print(rental_info)
+                writer.writerow(rental_info)
+                homeaway_file.flush()
+    homeaway_file.close()
+
+
 def scrape_homeaway_house_amenities(url):
     """
     Scrape individaul Homeaway url's amenities
@@ -159,7 +201,7 @@ def scrape_homeaway_rentals_amenities():
         lines = f.readlines()
 
     with open('data/homeaway_rentals_nyc_amenities_ALL.txt', 'a+') as homeaway_file:
-        for i, url in enumerate(lines[262:]):
+        for i, url in enumerate(lines):
             url = url.strip()
             print('Processing ', i)
             sleep(1)
@@ -216,4 +258,5 @@ def scrape_home_away_listings_all():
 
 # Standard boilerplate to call the main() function.
 if __name__ == '__main__':
-    scrape_homeaway_rentals_amenities()
+    # scrape_homeaway_rentals_amenities()
+    scrape_homeaway_rentals_descriptions()

@@ -269,7 +269,7 @@ https://www.homeaway.com/vacation-rental/p4359501	$874	Amazing 4 Bedroom 2 Bath 
 https://www.homeaway.com/vacation-rental/p1036313vb	$420	ENORMOUS 1300 Sf 3br with High Ceilings... - HomeAway Midtown East	40.7547549	-73.9706971	4.8	8	8	3	1	2 nights
 https://www.homeaway.com/vacation-rental/p919247	$255	Central Park Stunning Duplex - HomeAway Upper West Side	40.78318	-73.971736	4.4	9	5	1	1	6 nights
 https://www.homeaway.com/vacation-rental/p1187112	$345	Luxuriously Renovated Historic New... - HomeAway Harlem	40.80435	-73.946662	4.8	17	6	2	2	2 nights
-https://www.homeaway.com/vacation-rental/p4261389	$9	Pet-Friendly Modern Condos near United... - HomeAway Turtle Bay	40.75324	-73.96658			2	Studio	1	30 nights
+https://www.homeaway.com/vacation-rental/p4261389	$263	Pet-Friendly Modern Condos near United... - HomeAway Turtle Bay	40.75324	-73.96658			2	Studio	1	30 nights
 https://www.homeaway.com/vacation-rental/p4304484	$725	4 Bedroom 2 Bathroom Residence - 2,000... - HomeAway Kips Bay	40.74638196	-73.98394022	4.9	12	9	4	2	3 - 5 nights
 https://www.homeaway.com/vacation-rental/p783722vb	$146,298,544	2.5 Bedroom Cozy Brooklyn Townhouse... - HomeAway Greenwood	40.65819233	-74.00181975	4.8	28	6	3	1	3 - 7 nights
 https://www.homeaway.com/vacation-rental/p4241163	$300	Clinton Hill Brooklyn - Bed and Breakfast... - HomeAway Clinton Hill	40.695563	-73.969581			4	1	1	2 nights
@@ -1685,7 +1685,7 @@ https://www.homeaway.com/vacation-rental/p4476009	$706	Modern, Luxe, Sunny 2BR/2
 https://www.homeaway.com/vacation-rental/p6620132	$140	In the heart of downtown Manhattan and... - HomeAway Lower East Side	40.71819687	-73.98937988	4.3	3	4	1	0	3 - 5 nights
 https://www.homeaway.com/vacation-rental/p4359713	$160	Huge Studio Doorman Laundry Near Columbus... - HomeAway Hell's Kitchen	40.77023769	-73.98453151			3	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p4483174	$80	Beautifully Decorated, Near Subway,... - HomeAway Long Island City	40.77052545	-73.9154633	5	3	3	1	1	30 nights
-https://www.homeaway.com/vacation-rental/p4462170?uni_id=5049508	$23	Pet-Friendly Luxury Condos near Rockefeller... Two Bedroom - HomeAway Midtown East	40.75874	-73.978674			4	2	2	30 nights
+https://www.homeaway.com/vacation-rental/p4462170?uni_id=5049508	$656	Pet-Friendly Luxury Condos near Rockefeller... Two Bedroom - HomeAway Midtown East	40.75874	-73.978674			4	2	2	30 nights
 https://www.homeaway.com/vacation-rental/p4536204	$139	Fully Furnished - Designer 1 Bedroom... - HomeAway Midtown East	40.72943192	-73.98602188			2	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p1078079vb	$275	Perfect Williamsburg Loft Near Waterfront... - HomeAway Williamsburg	40.7218874	-73.95866476			5	2	1	3 nights
 https://www.homeaway.com/vacation-rental/p4471086	$180	MODERN 1-BR APARTMENT IN UPPER WEST SIDE... - HomeAway Lincoln Square	40.77161322	-73.98725409			2	1	1	25 nights
@@ -1788,7 +1788,7 @@ https://www.homeaway.com/vacation-rental/p3928428	$232	*OASIS* Lovely 2 Bedroom 
 https://www.homeaway.com/vacation-rental/p870744vb	$245	🌞 Charming Townhouse Suite 🌞 Steps... - HomeAway Upper East Side	40.7641734	-73.9674295	4.5	2	2	Studio	1	3 - 4 nights
 https://www.homeaway.com/vacation-rental/p4490037	$393	Gorgeous 2BR 1BA penthouse in Chelsea... - HomeAway Midtown East	40.74142911	-73.99698342			6	2	1	3 nights
 https://www.homeaway.com/vacation-rental/p1015600vb	$209	WEST VILLAGE/CHELSEA-PRIME LOCATION... - HomeAway Midtown East	40.73781308	-74.00111436			3	1	1	30 nights
-https://www.homeaway.com/vacation-rental/p4499249	$16	Luxury Condo w/ Complex Outdoor Grass... - HomeAway Midtown East	40.760178	-73.984305			2	1	1	30 nights
+https://www.homeaway.com/vacation-rental/p4499249	$436	Luxury Condo w/ Complex Outdoor Grass... - HomeAway Midtown East	40.760178	-73.984305			2	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p948876vb		Premier NYC Experience Midtown 3 Bedroom... - HomeAway Midtown East	40.758024	-73.981302			7	3	1	3 nights
 https://www.homeaway.com/vacation-rental/p3929344	$232	**CONSTELLATION** Magnificent 2 Bedroom... - HomeAway Upper West Side	40.78222599	-73.98408485			6	2	0	30 nights
 https://www.homeaway.com/vacation-rental/p479382vb	$217	Elegant Nolita One Bedroom - HomeAway Nolita	40.722718	-73.993642	5	4	2	1	1	30 nights
@@ -1796,7 +1796,7 @@ https://www.homeaway.com/vacation-rental/p4466379	$125	COZY 1 BEDROOM PRIVATE AP
 https://www.homeaway.com/vacation-rental/p4165923		Luxury 3 bed near Bryant Park - HomeAway Midtown East	40.75166168	-73.96773239			6	3	3	180 nights
 https://www.homeaway.com/vacation-rental/p4488272	$223	Amazing 3 Bedroom Apartment in the East... - HomeAway East Village	40.72833069	-73.97913105			4	3	1	30 nights
 https://www.homeaway.com/vacation-rental/p4359725	$170	One bedrom New Rennovation Midtown 5203... - HomeAway Midtown East	40.76330519	-73.98413803			3	1	1	30 nights
-https://www.homeaway.com/vacation-rental/p4497668	$23	Pet-Friendly Condo w/ WiFi, Complex... - HomeAway Central Park South	40.75874	-73.978674			4	2	2	30 nights
+https://www.homeaway.com/vacation-rental/p4497668	$656	Pet-Friendly Condo w/ WiFi, Complex... - HomeAway Central Park South	40.75874	-73.978674			4	2	2	30 nights
 https://www.homeaway.com/vacation-rental/p4359714	$275	Doorman 3 bedroom W/4 Beds GYM Deck Loundge... - HomeAway Midtown South	40.74480442	-73.96985606			9	3	1	30 nights
 https://www.homeaway.com/vacation-rental/p986664vb	$1,750	Two entire completely renovated floors... - HomeAway Midtown East	40.77007927	-73.98404024			15	6	4	6 nights
 https://www.homeaway.com/vacation-rental/p3928437	$198	*AEGEAN* Stylish 2 Bedroom Apartment... - HomeAway Upper West Side	40.78196603	-73.98442817	5	1	6	2	1	30 nights
@@ -1808,7 +1808,7 @@ https://www.homeaway.com/vacation-rental/p4489410	$234	Luxury Three Bedroom in S
 https://www.homeaway.com/vacation-rental/p4319177	$219	STAY NEXT TO CENTRAL PARK 1BR APT WITH... - HomeAway Midtown East	40.766506	-73.985047			2	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p4488248	$483	Huge, Furnished Six Bedroom Loft Apartment... - HomeAway Bowery	40.71931633	-73.99485506			8	6	2	30 nights
 https://www.homeaway.com/vacation-rental/p4432830	$400	Modern and bright duplex in central Cobble... - HomeAway Cobble Hill	40.68939764	-73.9957709			6	2	2	4 nights
-https://www.homeaway.com/vacation-rental/p4499250	$24	Luxury Apartment w/ Complex Outdoor... - HomeAway Midtown East	40.760178	-73.984305			4	2	2	30 nights
+https://www.homeaway.com/vacation-rental/p4499250	$670	Luxury Apartment w/ Complex Outdoor... - HomeAway Midtown East	40.760178	-73.984305			4	2	2	30 nights
 https://www.homeaway.com/vacation-rental/p4487304	$72	Trendy room in 5 bedroom Loft - HomeAway East Village	40.72520686	-73.98660916			10	5	2	30 nights
 https://www.homeaway.com/vacation-rental/p3906465	$370	Central Manhattan, NYC: 1 BR Apt at Luxury... - HomeAway Midtown East	40.752694	-73.97244	2	1	2	1	1	1 - 2 nights
 https://www.homeaway.com/vacation-rental/p4488893	$271	Furnished Rental – Brand New 4 Bedroom... - HomeAway East Village	40.73143161	-73.9809982			8	4	1	30 nights
@@ -1820,16 +1820,16 @@ https://www.homeaway.com/vacation-rental/p4359959	$440	Top Of Columbus Circle!Ex
 https://www.homeaway.com/vacation-rental/p1074504vb	$536	Fifth Avenue Ultra Luxurious Large 3... - HomeAway Midtown East	40.7622211	-73.9757064			8	3	2	30 nights
 https://www.homeaway.com/vacation-rental/p4577010	$150	Designer Downtown Studio One Block From... - HomeAway Greenwich Village	40.72976838	-74.00041044			1	1	1	10 nights
 https://www.homeaway.com/vacation-rental/p4499253	$324	Condo near Bowery St w/ Complex Game Room,... - HomeAway Bowery	40.723503	-73.991893			2	1	1	30 nights
-https://www.homeaway.com/vacation-rental/p4497652	$21	Pet-Friendly Condo near U.N. w/ WiFi,... - HomeAway Midtown East	40.753236	-73.966554			4	2	2	30 nights
+https://www.homeaway.com/vacation-rental/p4497652	$603	Pet-Friendly Condo near U.N. w/ WiFi,... - HomeAway Midtown East	40.753236	-73.966554			4	2	2	30 nights
 https://www.homeaway.com/vacation-rental/p4489670	$185	Gorgeous & Spacious 2 bedroom in SoHo... - HomeAway Nolita	40.72074605	-73.99242284			4	2	1	30 nights
 https://www.homeaway.com/vacation-rental/p4437712	$438	No headline. - HomeAway Hudson Square	40.7254587	-74.0054881			2	1	1	
-https://www.homeaway.com/vacation-rental/p4499248	$17	Luxury Apartment w/ Complex Outdoor... - HomeAway Midtown East	40.760178	-73.984305			2	Studio	1	30 nights
+https://www.homeaway.com/vacation-rental/p4499248	$458	Luxury Apartment w/ Complex Outdoor... - HomeAway Midtown East	40.760178	-73.984305			2	Studio	1	30 nights
 https://www.homeaway.com/vacation-rental/p4527964	$95	Beautiful 1BR /1Bath Riverdale BX Condo... - HomeAway West Bronx	40.877989	-73.9188905			3	1	1	10 nights
 https://www.homeaway.com/vacation-rental/p3761962	$98	(2B) Two Bedroom Home for 6 Just Off Park... - HomeAway East Harlem	40.795153	-73.944659			6	2	1	30 nights
 https://www.homeaway.com/vacation-rental/p959946vb	$120	Take The A Train To JFK Or To Madison Square... - HomeAway Bedford-Stuyvesant	40.68376754	-73.94922053			4	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p4539502		Midtown Suite Near Subway Stop, Carnegie... - HomeAway Midtown East	40.764801	-73.981234			4	Studio	1	1 - 2 nights
 https://www.homeaway.com/vacation-rental/p4531958	$163	Charming Studio @ Vakbapartments - HomeAway Bedford-Stuyvesant	40.69305358	-73.94778218			3	1	1	3 nights
-https://www.homeaway.com/vacation-rental/p4497650	$9	Pet-Friendly Condo near U.N. w/ WiFi,... - HomeAway Midtown East	40.753236	-73.966554			2	Studio	1	30 nights
+https://www.homeaway.com/vacation-rental/p4497650	$263	Pet-Friendly Condo near U.N. w/ WiFi,... - HomeAway Midtown East	40.753236	-73.966554			2	Studio	1	30 nights
 https://www.homeaway.com/vacation-rental/p3646711	$239	New 3BR City-Oasis In Prospect Heights,... - HomeAway Crown Heights	40.676633	-73.963212			4	3	1	13 nights
 https://www.homeaway.com/vacation-rental/p4481448	$485	Spacious Sophisticated 2 Bedroom 2 Full... - HomeAway Lower East Side	40.7190299	-73.9831682			8	2	2	1 - 5 nights
 https://www.homeaway.com/vacation-rental/p4290310	$250	Park Slope Brooklyn, Large & Sunny 2 BD/2... - HomeAway Park Slope	40.6778143	-73.9817492			4	2	2	
@@ -1837,7 +1837,7 @@ https://www.homeaway.com/vacation-rental/p1100852vb	$225	Brand New building Spac
 https://www.homeaway.com/vacation-rental/p3896796	$116	Easy Access, Cute Space - HomeAway Boerum Hill	40.688257	-73.985584			2	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p4145788	$643	A Temporary Accommodation That Has Been... - HomeAway Bedford-Stuyvesant	40.68043218	-73.95724234			5	2	2	6 nights
 https://www.homeaway.com/vacation-rental/p4507494	$1,122	United Nations Luxury 3 bed 3 bath Apartment... - HomeAway Midtown East	40.7504956	-73.96470533			8	3	3	30 nights
-https://www.homeaway.com/vacation-rental/p4499254	$20	Condo near Bowery St w/ Complex Game Room,... - HomeAway Bowery	40.723503	-73.991893			4	2	2	30 nights
+https://www.homeaway.com/vacation-rental/p4499254	$520	Condo near Bowery St w/ Complex Game Room,... - HomeAway Bowery	40.723503	-73.991893			4	2	2	30 nights
 https://www.homeaway.com/vacation-rental/p1073318vb	$160	Spacious, Sunny, Stylish Family 3-Bed,... - HomeAway Flatbush - Ditmas Park	40.64263887	-73.95877418			5	3	2	30 nights
 https://www.homeaway.com/vacation-rental/p4489657	$185	Sunny Two Bedroom SoHo - HomeAway Nolita	40.72203887	-73.99295421			4	2	1	30 nights
 https://www.homeaway.com/vacation-rental/p4499252	$10	Condo near Bowery St w/ Complex Game Room,... - HomeAway Bowery	40.723503	-73.991893			2	Studio	1	30 nights
@@ -2349,7 +2349,7 @@ https://www.homeaway.com/vacation-rental/p4526574	$2,200	Luxuriously Renovated C
 https://www.homeaway.com/vacation-rental/p3813032	$92	(4D) 1 Bedroom Apt Just Off Park Ave - HomeAway East Harlem	40.795153	-73.944659	3	1	4	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p1067519vb	$275	Mini Loft in Tribeca - HomeAway Tribeca	40.71570582	-74.00661531			2	1	1	
 https://www.homeaway.com/vacation-rental/p4271235	$329	MIDTOWN EAST 2BR-2BA APT-RIVER VIEWS-GYM... - HomeAway Midtown South	40.7436072	-73.972485			4	2	2	30 nights
-https://www.homeaway.com/vacation-rental/p4343930?uni_id=4756073	$16	Luxury Condos w/ Complex Outdoor Grass... One Bedroom - HomeAway Midtown East	40.760178	-73.984305			2	1	1	30 nights
+https://www.homeaway.com/vacation-rental/p4343930?uni_id=4756073	$458	Luxury Condos w/ Complex Outdoor Grass... One Bedroom - HomeAway Midtown East	40.760178	-73.984305			2	1	1	30 nights
 https://www.homeaway.com/vacation-rental/p4360404	$167	Brooklyn Heights - Backyard in the Sky... - HomeAway Downtown Brooklyn	40.68895818	-73.98634381			4	2	1	30 nights
 https://www.homeaway.com/vacation-rental/p4265874	$263	Studio Apartment #53 - Apartment for... - HomeAway Midtown South	40.7470741	-73.9878485			3	Studio	1	
 https://www.homeaway.com/vacation-rental/p4489340?uni_id=5081186	$255	Luxury Residential Apartments in the... Luxury 1 bed close to Grand Central - HomeAway Turtle Bay	40.751313	-73.971583			3	1	1	29 nights
